@@ -1,2 +1,2 @@
 # bowling_game
-ASimple bowling game
+A simple bowling game
