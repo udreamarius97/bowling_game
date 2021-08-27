@@ -69,6 +69,7 @@ public class GameClass {
     public static void playAsComputer(Player computerPlayer, Scanner scanner){
         Random r = new Random();
         int score = r.nextInt(11);
+        System.out.println("Computer plays");
         computerPlayer.updateScoreList(score);
     }
 
